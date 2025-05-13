@@ -22,3 +22,6 @@ Running RabbitMQ screenshot
 Sending and processing events
 ![image](https://github.com/user-attachments/assets/904251e8-3475-4e9e-9d74-00d77548e726)
 
+Monitoring chart based on publisher
+![image](https://github.com/user-attachments/assets/849fddb4-44a7-4b72-9d3b-b57c0c2a0938)
+
