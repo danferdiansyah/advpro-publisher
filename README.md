@@ -18,3 +18,7 @@ Artinya, baik publisher maupun subscriber terhubung ke broker message yang sama 
 
 Running RabbitMQ screenshot
 ![image](https://github.com/user-attachments/assets/527887db-b496-45eb-845f-8bdaccf9f9c1)
+
+Sending and processing events
+![image](https://github.com/user-attachments/assets/904251e8-3475-4e9e-9d74-00d77548e726)
+
