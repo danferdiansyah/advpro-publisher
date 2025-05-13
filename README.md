@@ -16,3 +16,5 @@ program, what does it mean?**
 Artinya, baik publisher maupun subscriber terhubung ke broker message yang sama dengan URL `amqp://guest:guest@localhost:5672`. Publisher mengirim pesan ke broker, subscriber menerima pesan dari broker yang sama. Sehingga, publisher dan subscriber bisa saling berinteraksi dalam satu sistem distribusi pesan yang sama.
 
 
+Running RabbitMQ screenshot
+![image](https://github.com/user-attachments/assets/527887db-b496-45eb-845f-8bdaccf9f9c1)
